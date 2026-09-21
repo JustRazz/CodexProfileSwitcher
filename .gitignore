@@ -1,0 +1,18 @@
+# Private runtime material must never be committed or shipped.
+.profile-switcher/
+CodexProfileSwitcherPublic/
+auth.json
+settings.json
+preferences.json
+*.dpapi
+*.toml
+*.toml.*
+.env
+.env.*
+*.log
+*.tmp
+*.pdb
+backups/
+sessions/
+work/
+tests-output/
